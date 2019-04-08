@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="139px" viewBox="0 0 105 139" version="1.1">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>arrow-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="arrow-svg" transform="translate(-299.000000, -99.000000)" stroke="#FFFFFF" stroke-width="20">
+            <g id="arrow-icon" transform="translate(309.000000, 109.000000)">
+                <path d="M42.5,0.5 L42.5,116.5" id="Line-2"></path>
+                <path d="M-1.42108547e-14,71 L43,119" id="Line-3"></path>
+                <path d="M43,71 L85,119" id="Line-3" transform="translate(64.000000, 95.000000) scale(1, -1) translate(-64.000000, -95.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
